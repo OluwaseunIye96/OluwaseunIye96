@@ -27,11 +27,6 @@ Welcome to my GitHub! I'm passionate about leveraging data to drive insights, bu
 
 ---
 
-## 🚀 Projects
-- 📌 *Project 1 – *  
-- 📌 *Project 2 – [Coming Soon]*  
-(Feel free to explore more repositories [here](https://github.com/yourusername))
-
 ---
 
 ## 🎓 Education
